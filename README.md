@@ -6,5 +6,5 @@
 전제 조건:
 
 노드JS
-가나슈
+sepolia, sepoliaETH
 브라우저의 메타마스크 확장
